@@ -1,0 +1,20 @@
+{
+  "name": "Jories Boss",
+  "short_name": "Jories Boss",
+  "description": "Bestuur Jories Construction: werke, kwotasies, rekeninge en WhatsApp. 083 408 6529.",
+  "start_url": "./boss.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1F2A2E",
+  "theme_color": "#1F2A2E",
+  "lang": "af",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
